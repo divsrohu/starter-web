@@ -10,3 +10,5 @@ iAdding intro
 iAddning purpose
 jjjl
 Sample website with plenty of files for demos
+###Copyright
+2017.GIT Training
